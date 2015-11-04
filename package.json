@@ -17,7 +17,7 @@
     "grunt-contrib-cssmin": "~0.10.0",
     "grunt-requirejs": "~0.4.2",
     "grunt-contrib-clean": "~0.6.0",
-    "grunt-mocha-phantomjs": "~0.6.0",
+    "grunt-mocha-phantomjs": "~1.0.2",
     "debug": "~2.1.0",
     "send": "~0.10.1",
     "grunt-contrib-copy": "~0.7.0"
